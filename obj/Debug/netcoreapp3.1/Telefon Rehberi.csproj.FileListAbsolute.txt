@@ -1,0 +1,14 @@
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.exe
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.deps.json
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.runtimeconfig.json
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.runtimeconfig.dev.json
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.dll
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.pdb
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.csproj.AssemblyReference.cache
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.AssemblyInfoInputs.cache
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.AssemblyInfo.cs
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.csproj.CoreCompileInputs.cache
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.dll
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.pdb
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.genruntimeconfig.cache

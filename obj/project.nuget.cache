@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wfkkMKTNrjMQdxev8RX90LQ7JFzCDrQQMbIxAU3NsMNc8i31mb2wmuhAIGDfyDrnN9x56eIoBH9nUQppDj1UjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seobig\\source\\repos\\Odev1\\Telefon Rehberi\\Telefon Rehberi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seobig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
